@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://zahquaali.jjacob.cn/sitemap.xml
